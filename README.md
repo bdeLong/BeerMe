@@ -10,8 +10,7 @@
 
 **Introducing you to Chicago Breweries & Beers!**
 
-1. Sign in or sign up and create a user profile
-  You can use a test account with the credentials below:
+1. Sign in or sign up and create a user profile<br/>You can use a test account with the credentials below:
   
     email: test@test.com<br/>password: test
 
