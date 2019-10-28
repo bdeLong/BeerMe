@@ -1,0 +1,37 @@
+{
+  "name": "BeerMe",
+  "version": "1.0.0",
+  "description": "- **For:** Northwestern Coding Bootcamp - **Developers:** Benjamin Delong, Kat Eng, Kayla Verheyen, Sergio Ontiveros - **Deployment Date**  - **Built With**  HTML, CSS, Animate CSS, Boostrap, Javascript,  Node.js, Express, mySQL, Sequelize, PassportJS   - **APIs** Google Maps",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "express-session": "^1.15.6",
+    "mysql2": "^2.0.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "sequelize": "^4.44.3",
+    "sequelize-cli": "^5.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdeLong/BeerMe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdeLong/BeerMe/issues"
+  },
+  "homepage": "https://github.com/bdeLong/BeerMe#readme"
+}
