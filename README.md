@@ -13,9 +13,7 @@
 1. Sign in or sign up and create a user profile
   You can use a test account with the credentials below:
   
-  email: test@test.com
-  
-  password: test
+    email: test@test.com<br/>password: test
 
 ![sign up](public/assets/images/sign_in.png)
 ![sign up](public/assets/images/create_a_profile.png)
