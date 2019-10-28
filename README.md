@@ -1,8 +1,6 @@
 # BeerMe Chicago
-
-- **For:** Northwestern Coding Bootcamp
 - **Developers:** Benjamin Delong, Kat Eng, Kayla Verheyen, Sergio Ontiveros
-- **Deployment Date** 
+- **Deployment Date*1/15/2019* 
 - **Built With**  HTML, CSS, Animate CSS, Boostrap, Javascript,  Node.js, Express, mySQL, Sequelize, PassportJS  
 - **APIs** Google Maps
 
@@ -13,6 +11,9 @@
 **Introducing you to Chicago Breweries & Beers!**
 
 1. Sign in or sign up and create a user profile
+  You can use a test account with the credentials below:
+  email: test@test.com
+  password: test
 
 ![sign up](public/assets/images/sign_in.png)
 ![sign up](public/assets/images/create_a_profile.png)
