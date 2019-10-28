@@ -12,7 +12,9 @@
 
 1. Sign in or sign up and create a user profile
   You can use a test account with the credentials below:
+  
   email: test@test.com
+  
   password: test
 
 ![sign up](public/assets/images/sign_in.png)
